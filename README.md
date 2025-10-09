@@ -1,25 +1,41 @@
-Olá! 👋 Meu nome é Felipe Erik
-============================
+<h1 align="center">👋 Hi, I'm <strong>Felipe Erik</strong> from São Bento - PB 🇧🇷</h1>
 
-Saiba Mais sobre mim!
----------------------
-
-Olá! Sou o Felipe, desenvolvedor apaixonado por transformar ideias em soluções usando código.
-
-Já domino as bases da programação web e atualmente estou mergulhando mais fundo no back-end com Django e Java ☕🚀
-
-* 🌍  Eu Sou de São bento - PB
-* ✉️  Você pode entrar em contato comigo por [felipekmorais@gmail.com](mailto:felipekmorais@gmail.com)
-* 🧠  Eu estou aprendendo Java, Django e Banco de dados SQL
-
-### Skills
-
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a>
+<p align="center">
+  💻 Full Stack Developer | 🎓 ADS Student at UNIFIP - Patos/PB
 </p>
 
+---
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29ydjNjbjZqdXk2bHl0OTFtNGU5bHU3cHoyNzFyM2NxcWc1NHUxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" width="100%" heigth="" alt="GIF"/>
+</p>
 
-### Minhas redes Socias:
+### 🔎 About Me
+<p>
+👨‍💻 Fullstack Developer | Cursando ADS na UNIFIP<br>
+🌱 Estudando Django, SQL e boas práticas de programação<br>
+💬 Pergunte-me sobre Django, SQL e desenvolvimento web<br>
+🎯 Objetivo: evoluir continuamente e contribuir para projetos de código aberto<br>
+🚀 Estou sempre buscando aprendizado contínuo, explorando novas tecnologias e aprimorando minhas habilidades para entregar soluções de qualidade
+</p>
 
-<p align="left"> <a href="https://www.github.com/Felipedmorais" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="http://www.instagram.com/flpmoraes_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a></p>
+---
+
+### 🚀 Technologies & Tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Felipedmorais&show_icons=true&theme=tokyonight" height="160px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipedmorais&layout=compact&theme=tokyonight" height="160px" />
+</p>
+
