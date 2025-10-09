@@ -1,0 +1,39 @@
+name: Generate Snake
+
+on:
+  schedule:
+    # Executa uma vez por dia
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Permite rodar manualmente
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar animação da cobrinha
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Felipedmorais
+          outputs: dist/github-contribution-grid-snake.svg
+
+      - name: Commit do resultado
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: GitHub Action
+          author_email: actions@github.com
+          message: "Atualizando Snake Game 🐍"
+          add: "dist/github-contribution-grid-snake.svg"
+
+      - name: Publicar no branch 'output'
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
