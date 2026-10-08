@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/felipedmorais/felipedmorais/main/banner.gif" width="100%" alt="banner"/>
+<img src="https://raw.githubusercontent.com/felipedmorais/felipedmorais/main/Valenberg.gif" width="100%" alt="banner"/>
 
 <!-- NEON TYPING -->
 <a href="https://github.com/felipedmorais">
