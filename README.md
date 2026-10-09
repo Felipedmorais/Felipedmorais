@@ -22,42 +22,21 @@
 
 <br/>
 
-```bash
-visitor@github:~$ whoami --felipe
+<div align="center">
+<table>
+<tr>
+<td align="left" width="700">
+<p>
+<code style="color:#22D3EE;">&gt; Felipe Erik Cunha de Morais</code><br/>
+<code style="color:#22D3EE;">&gt; Full Stack Developer @ interior da Paraíba</code><br/>
+<code style="color:#22D3EE;">&gt; ADS @ UNIFIP · conclusão jun/2027</code><br/>
+<code style="color:#22D3EE;">&gt; Transformando demandas reais em software.</code>
+</p>
+</td>
+</tr>
+</table>
+</div>
 
-  ╭──────────────────────────────────────────────────────╮
-  │  Felipe Erik Cunha De Morais                         │
-  │  > Full Stack Developer @ interior da Paraíba        │
-  │  > ADS @ UNIFIP · conclusão jun/2027                 │
-  │  > transformo demanda real em software que roda      │
-  ╰──────────────────────────────────────────────────────╯
-
-visitor@github:~$ _
-```
-
-## `>` sobre mim
-
-```python
-class Felipe:
-    def __init__(self):
-        self.stack      = "Full Stack"
-        self.base       = "São Bento, PB · Brasil"
-        self.formacao   = "ADS @ UNIFIP → jun/2027"
-        self.cafe       = float("inf")
-
-    @property
-    def filosofia(self):
-        return "Código que resolve problema real > código bonito no slide."
-
-    def online_agora(self):
-        return [
-            "🏪 SaaS de gestão p/ comércios  (Python · SQLite3 · Express)",
-            "📰 PortalPanorama.online         (no ar e crescendo)",
-            "⚛️  afundando em React + TypeScript",
-        ]
-
-# $ python3 -c "from me import Felipe; print(Felipe().filosofia)"
-```
 
 <div align="center">
 
@@ -185,9 +164,6 @@ Páginas institucionais e de conversão para empresas e comércios, com foco em 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=felipedmorais&hide_border=true&background=0d1117&stroke=a855f7&ring=22d3ee&fire=ff2e97&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=8b949e"/>
 
 <br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=felipedmorais&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
-
 <br/>
 <!-- SNAKE (requer o GitHub Action — instruções abaixo) -->
 <img src="https://raw.githubusercontent.com/felipedmorais/felipedmorais/output/snake.svg" alt="snake" width="100%"/>
@@ -214,4 +190,3 @@ Páginas institucionais e de conversão para empresas e comércios, com foco em 
 <div align="center">
   <img src="https://raw.githubusercontent.com/felipedmorais/felipedmorais/main/banner.gif" width="100%" alt="footer"/>
 </div>
-   ![snake](https://raw.githubusercontent.com/felipedmorais/felipedmorais/output/snake.svg)
