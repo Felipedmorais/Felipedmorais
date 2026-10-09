@@ -189,10 +189,8 @@ Páginas institucionais e de conversão para empresas e comércios, com foco em 
 <img src="https://github-profile-trophy.vercel.app/?username=felipedmorais&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=8" width="100%"/>
 
 <br/>
-
 <!-- SNAKE (requer o GitHub Action — instruções abaixo) -->
-<img src="https://raw.githubusercontent.com/felipedmorais/felipedmorais/output/snake-dark.svg" width="100%" alt="Jogo da cobrinha em tema escuro"/>
-
+<img src="https://raw.githubusercontent.com/felipedmorais/felipedmorais/output/snake.svg" alt="snake" width="100%"/>
 </div>
 
 <div align="center">
