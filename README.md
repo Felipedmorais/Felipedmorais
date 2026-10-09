@@ -216,3 +216,4 @@ Páginas institucionais e de conversão para empresas e comércios, com foco em 
 <div align="center">
   <img src="https://raw.githubusercontent.com/felipedmorais/felipedmorais/main/banner.gif" width="100%" alt="footer"/>
 </div>
+   ![snake](https://raw.githubusercontent.com/felipedmorais/felipedmorais/output/snake.svg)
